@@ -5,6 +5,7 @@ import digital from "../src/images/portfolio3.jpg";
 import marketing from "../src/images/portfolio03.png";
 import software from "../src/images/portfolio04.png";
 
+
 const Sdata = [
     {
         imgsrc: web,

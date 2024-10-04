@@ -13,10 +13,10 @@ const Common = (props) => {
             <div className="row">
               <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
               <h1>
-                {props.name} <strong className="brand-name"> React JS </strong>
+                {props.name} <strong className="brand-name"> ABC SOLUTIONS </strong>
               </h1>
               <h2 className="my-3">
-                The Best Frame work for making Responsive Animated Websites 
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit,
               </h2>
               <div className="mt-3">
               <NavLink to={props.visit} className="btn-get-started">
